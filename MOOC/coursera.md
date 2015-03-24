@@ -12,6 +12,11 @@
 
 ## 经验
 
+### simplegui
+
+- [Python交互式编程中的simplegui等库的获得 | MOOC学院 果壳网旗下慕课学习社区](http://mooc.guokr.com/discussion/3841/)
+    + [installing pygame on osx mountain lion](http://juliaelman.com/blog/2013/04/02/installing-pygame-on-osx-mountain-lion/)
+
 ## 问题
 
 ## 期望 
