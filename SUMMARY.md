@@ -1,4 +1,5 @@
 - [草案素材 ~ _draft](_draft/README.md)
+  + [教程应该怎么写](_draft/how2tutorial.md)
 - [反转构思](reverse.md)
 - [公告/公开信](MOOC/INFO/README.md)
    - [Q&A 每周汇总](http://wiki.zoomquiet.io/omooc/)
