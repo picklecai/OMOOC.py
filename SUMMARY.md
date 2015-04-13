@@ -1,5 +1,36 @@
 - [草案素材 ~ _draft](_draft/README.md)
 - [反转构思](reverse.md)
+- [公告/公开信](MOOC/INFO/README.md)
+   - [Q&A 每周汇总](http://wiki.zoomquiet.io/omooc/)
+   - [Week0 1503.15~3.21](MOOC/INFO/week0/README.md)
+     - [OMOOC.py 旗舰班启动说明](MOOC/INFO/week0/weekly_letter_150315.md)
+       * [Mar.20 OMOOC 小报](MOOC/INFO/week0/daily_report_150320.md)
+   - [Week1 1503.22~3.28](MOOC/INFO/week1/README.md)
+     - [OMOOC.py 任性而不傲娇](MOOC/INFO/week1/weekly_letter_150321.md)
+       * [Mar.23 OMOOC 小报](MOOC/INFO/week1/daily_report_150323.md)
+       * [Mar.24 OMOOC 小报](MOOC/INFO/week1/daily_report_150324.md)
+       * [Mar.25 OMOOC 小报](MOOC/INFO/week1/daily_report_150325.md)
+       * [Mar.26 OMOOC 小报](MOOC/INFO/week1/daily_report_150326.md)
+   - [Week2 `1503.29~4.4`](MOOC/INFO/week2/README.md)
+     - [OMOOC.py 怒放的任性](MOOC/INFO/week2/weekly_letter_150327.md)
+       * [Mar.29 OMOOC 小报](MOOC/INFO/week2/daily_report_150329.md)
+       * [Apr. 1 OMOOC 小报](MOOC/INFO/week2/daily_report_150401.md)
+       * [Apr. 2 OMOOC 小报](MOOC/INFO/week2/daily_report_150402.md)
+   - [Week3 `1504.05~4.11`](MOOC/INFO/week3/README.md)
+     - [OMOOC.py 进击的代码](MOOC/INFO/week3/weekly_letter_150403.md)
+       * [Apr. 6 OMOOC 小报](MOOC/INFO/week3/daily_report_150406.md)
+       * [Apr. 7 OMOOC 小报](MOOC/INFO/week3/daily_report_150407.md)
+       * [Apr. 8 OMOOC 小报](MOOC/INFO/week3/daily_report_150408.md)
+       * [Apr. 9 OMOOC 小报](MOOC/INFO/week3/daily_report_150409.md)
+   - [Week4 `1504.12~4.18`](MOOC/INFO/week4/README.md)
+     - [OMOOC.py 享受的折腾](MOOC/INFO/week4/weekly_letter_150410.md)
+   - [Week5 `1504.19~4.25`](MOOC/INFO/week5/README.md)
+   - [Week6 `1504.26~5.2`](MOOC/INFO/week6/README.md)
+   - [Week7 `1505.03~5.9`](MOOC/INFO/week7/README.md)
+   - [Week8 `1505.10~5.16`](MOOC/INFO/week8/README.md)
+   - [Week9 `1505.17~5.23`](MOOC/INFO/week9/README.md)
+   - [Week10 `1505.24~5.30`](MOOC/INFO/week10/README.md)
+   - [Week11 `1505.31~6.6`](MOOC/INFO/week11/README.md)
 - [工具配合](support/README.md)
     - [学员资料模版](support/term_checking_sheet.md)
     - [邮件列表](support/maillinglist.md)
@@ -18,37 +49,4 @@
 - [MOOC 环境](MOOC/README.md)
     - [163](MOOC/163.md)
     - [coursera](MOOC/coursera.md)
-- 公告 / 公开信
-   - [Q&A 每周汇总](http://wiki.zoomquiet.io/omooc/)
-   - Week0 1503.15~3.21
-     - [OMOOC.py 旗舰班启动说明](INFO/INFO学员_公开信_v20150315.md)
-         - [Mar.20 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150320.md)
-   - Week1 1503.22~3.28
-     - [OMOOC.py 任性而不傲娇](INFO/INFO学员_公开信_v20150321.md)
-         - [Mar.23 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150323.md)
-	 - [Mar.24 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150324.md)
-	 - [Mar.25 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150325.md)
-   - Week2 `1503.29~4.4`
-     - [OMOOC.py 怒放的任性](INFO/INFO学员_公开信_v20150327.md)
-	 - [Mar.25 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150325.md)
-	 - [Mar.29 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150329.md)
-   	 - [Apr. 1 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150401.md)
-	 - [Apr. 2 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150402.md)
-   - Week3 `1504.05~4.11`
-     - [OMOOC.py 进击的代码](INFO/INFO学员_公开信_v20150403.md)
-     	 - [Apr. 6 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150406.md)
-	 - [Apr. 7 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150407.md)
-	 - [Apr. 8 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150408.md)
-         - [Apr. 9 OMOOC 小报](INFO/INFO学员_OMOOC小报_v20150409.md)
-   - Week4 `1504.12~4.18`
-     - [OMOOC.py 享受的折腾](INFO/INFO学员_公开信_v20150410.md)
-   - Week5 `1504.19~4.25`
-   - Week6 `1504.26~5.2`
-   * Week7 `1505.03~5.9`
-   * Week8 `1505.10~5.16`
-   * Week9 `1505.17~5.23`
-   * Week10 `1505.24~5.30`
-   * Week11 `1505.31~6.6`
-    
-
 - [ABOUT](ABOUT.md)
