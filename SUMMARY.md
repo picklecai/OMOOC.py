@@ -48,6 +48,6 @@
         - [什么是文案的风格化?](tools/what-is-wordstyle.md)
     - [如何用任务驱动?](tools/how4tasking.md)
     - [如何用任务驱动?](tools/how4tasking.md)
-- [草案素材 ~ _draft](_draft/README.md)
+- [草案素材 (_draft)](_draft/README.md)
   + [教程应该怎么写](_draft/how2tutorial.md)
 - [ABOUT](ABOUT.md)
