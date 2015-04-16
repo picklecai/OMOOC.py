@@ -5,6 +5,7 @@
 - [工具配合](support/README.md)
     - [学员资料模版](support/term_checking_sheet.md)
     - [邮件列表](support/maillinglist.md)
+	- [ Q&A 工具使用说明](support/GotoMeeting.md)
     - [GitHub 生态](support/github.md)
         * [Clone](support/clone.md)
         * [GitBook](support/gitbook.md)
