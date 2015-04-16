@@ -1,36 +1,39 @@
-# 如何进入 GoToMeeting
-1. 请加入我的会议。
-https://global.gotomeeting.com/join/882945701
+# 如何进入 OMOOC.py QA 会议直播间 
 
-2. 使用您的麦克风和扬声器(VoIP) - 建议使用耳麦。或者拨打电话。
+- 网页版: https://global.gotomeeting.com/join/882945701
+  + or  http://JoinGoToMeeting.com
+  + 输入此会议 ID: 882-945-701
+  + 输入此密码: 150419
+- 桌面版: https://download.citrixonline.com/launcher2
+  + 下载安装 launcher
+  + 点击开始
+  + 自动下载真正的 app
+  + 进入 qa.OMOOC.py
 
-拨打 +1 (646) 749-3122
-访问代码: 882-945-701
-音频 PIN 码: 加入会议后显示
+ps:
 
-会议密码: 150419
-会议 ID: 882-945-701
+- 时限: 150417 21:21~22:42 有效
 
-GoToMeeting
-在线会议从未如此简便
-1. 请转至 JoinGoToMeeting.com
-2. 输入此会议 ID: 882-945-701
-3. 输入此密码: 150419
 
-## GoToMeeting 是什么
+## 技巧
 
-Hangouts是Google的一个视频聊天平台，可以在这个平台内进行视频聊天。
+### web 版本发言
 
-## 怎么进入这个平台
 
-## 这个平台用来干嘛？
+### 义务转播员操作
+
+### Skype 收听转播指南
+
+
+# 参考:
+
+-  GoToMeeting 是什么
 
 
 ## 注意事项
 
 为了保证回答进程的高效，提问者尽量使用文字问问题，同时关掉自己的麦克风，点选屏幕上方的小话筒就好了。
 
-是也乎, 为了不与 419 开智大会产生冲突, 本周 Q&A 定在 April.18, 也就是本周六进行.
 
 本次会议将录播, 并将视频上传到 Youtube 上.
 
