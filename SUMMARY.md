@@ -48,6 +48,7 @@
    - [Week10 `1505.24~5.30`](MOOC/INFO/week10/README.md)
    - [Week11 `1505.31~6.6`](MOOC/INFO/week11/README.md)
 - [助教工具](tools/README.md)
+    - [助教术语](tools/terms.md)
     - [如何夸奖?](tools/how4granny.md)
     - [如何观察?](tools/how2observe.md)
     - [如何写公开信?](tools/how2letters4publish.md)

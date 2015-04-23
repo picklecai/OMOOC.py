@@ -1,5 +1,8 @@
-## 背景
-Disqus是个网页评论的插件，正好我们的gitbook也支持这个插件（终于又可以点赞了），这样大家就可以在别人的书里评论，讨论问题了。
+## 什么是 Disqus ?
+
+Disqus 适用于各式各样的博客平台, 并且易于安装. 有了 Disqus, 所有的人就可以在你的博客或书籍下面评论了.  
+
+------
 
 ## 注册Disqus
 
@@ -12,6 +15,8 @@ Disqus是个网页评论的插件，正好我们的gitbook也支持这个插件�
 - 选择`setting`
 - 选择`advanced`
 - 在下面的`Trusted Domains`中，添加gitbook.com，gitbooks.io（一行一条网址，不用加www）
+
+----
 
 ## 在gitbook中配置Disqus
 
