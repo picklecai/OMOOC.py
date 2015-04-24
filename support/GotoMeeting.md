@@ -2,7 +2,7 @@
 
 - 网页版: https://global.gotomeeting.com/join/882945701
   + or  http://JoinGoToMeeting.com
-  + 输入此会议 ID: 909-111-445
+  + 输入此会议 ID:222-733-837
   + 输入此密码: 150419
 - 桌面版: https://download.citrixonline.com/launcher2
   + 下载安装 launcher
