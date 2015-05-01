@@ -1,8 +1,9 @@
 # 如何进入 OMOOC.py QA 会议直播间 
 
+
 - 网页版: https://global.gotomeeting.com/join/882945701
   + or  http://JoinGoToMeeting.com
-  + 输入此会议 ID:222-733-837
+  + 输入此会议 ID:882-945-701
   + 输入此密码: 150419
 - 桌面版: https://download.citrixonline.com/launcher2
   + 下载安装 launcher
@@ -12,7 +13,7 @@
 
 ps:
 
-- 时限: 150501 21:21~22:21 有效
+- 时限: 150501 20:42~22:22 有效
 - 如果提前可以测试, 班长会在群里通知.
 
 
