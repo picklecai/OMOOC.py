@@ -1,10 +1,12 @@
 # 开智微课Python旗舰班 教程 集锦
-~ OMOOC.py 助教团集体创作
+* OMOOC.py 助教团集体创作
+* [助教官方教程地址](http://openmindclub.gitbooks.io/omooc-py/content/)
 
 ## 成员
-
+* [CCQ](https://github.com/ccqpein)  
+* [Yixuan](https://github.com/YixuanBurnett)  
 ## 目标
-助教们将自个儿作为学员们的另外一个对照组来记录:
+助教们将自个儿作为学员们的另外一个对照组来记录:  
 
 - 面对相同的完全陌生的事务
 - 助教遇到问题是如何解决的?
@@ -23,3 +25,5 @@
 
 > [Q&A:issues请在这里提出](https://github.com/OpenMindClub/OMOOC.py/issues)
 
+-----
+[学员仓库及作品追踪](https://github.com/OpenMindClub/OMOOC.py/wiki)
