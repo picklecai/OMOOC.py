@@ -50,7 +50,7 @@
 		* [April. 22 OMOOC 小报](MOOC/INFO/week5/daily_report_150422.md)
 		* [April. 23 OMOOC 小报](MOOC/INFO/week5/daily_report_150423.md)
    - [Week6 `1504.26~5.2`](MOOC/INFO/week6/README.md)
-	 - [AAR 式教程](MOOC/INFO/week6/daily_report_150428.md)
+	 - [OMOOC.py AAR 式教程](MOOC/INFO/week6/daily_report_150428.md)
 		* [April. 29 OMOOC 小报](MOOC/INFO/week6/daily_report_150429.md)
 		* [May. 1 OMOOC 小报   ](MOOC/INFO/week6/daily_report_150501.md)
    - [Week7 `1505.03~5.9`](MOOC/INFO/week7/README.md)
