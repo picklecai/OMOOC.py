@@ -1,4 +1,4 @@
-- [反转构思](reverse.md)
+
 - [MOOC 环境](MOOC/README.md)
     - [163](MOOC/163.md)
     - [coursera](MOOC/coursera.md)

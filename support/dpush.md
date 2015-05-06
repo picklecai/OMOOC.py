@@ -4,7 +4,6 @@
 ## 现象
 
 - [gitbook 双推技巧](https://github.com/OpenMindClub/OMOOC.py/wiki/gitbook_double_push)
-- [gitbook 多人合作技巧](https://github.com/OpenMindClub/OMOOC.py/wiki/collaborate)
 
 ## 解决
 ~ 本质上由于 gitbook `NoZuoNoDie` 的行径,导致以往的自然流程失效:
