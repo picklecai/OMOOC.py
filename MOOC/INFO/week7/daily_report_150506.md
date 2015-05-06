@@ -1,5 +1,6 @@
+# 现象
 
-me · OpenMindClub/OMOOC.py Wiki](https://github.com/OpenMindClub/OMOOC.py/wiki)
+[Home · OpenMindClub/OMOOC.py Wiki](https://github.com/OpenMindClub/OMOOC.py/wiki)
 
 - 展示了当前已知原创作品团队的进展
 - 7 个项目,包含不到一半的学员
