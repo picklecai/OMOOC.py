@@ -1,4 +1,4 @@
-# 如何进入 OMOOC.py QA 会议直播间 
+#如何进入 OMOOC.py QA 会议直播间 
 
 
 - 网页版: https://global.gotomeeting.com/join/882945701
